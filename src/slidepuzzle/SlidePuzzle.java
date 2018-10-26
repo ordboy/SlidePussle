@@ -5,7 +5,7 @@
 package slidepuzzle;
 
 
-public class SlidePussle {
+public class SlidePuzzle {
 
     
     public static void main(String[] args) {
